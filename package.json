@@ -1,0 +1,19 @@
+{
+  "name": "mysql_queries",
+  "version": "1.0.0",
+  "description": "",
+  "main": "queries.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RaviiSharma/MYSQL_QUERIES.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RaviiSharma/MYSQL_QUERIES/issues"
+  },
+  "homepage": "https://github.com/RaviiSharma/MYSQL_QUERIES#readme"
+}
